@@ -4,7 +4,7 @@ version = "0.1.0"
 authors = ["Jacob Sacco <jacobsacco@ou.edu>"]
 edition = "2018"
 description = "A package providing a few useful functions that std::fs does not"
-repository = ""
+repository = "https://github.com/jacobsacco/rs_fs_util"
 license = "MIT"
 license-file = "License.md"
 

@@ -1,6 +1,6 @@
 [package]
 name = "fs_util"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Jacob Sacco <jacobsacco@ou.edu>"]
 edition = "2018"
 description = "A package providing a few useful functions that std::fs does not"
@@ -11,5 +11,5 @@ license-file = "License.md"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-generic_error = "0.1.0"
+generic_error = "0.2.0"
 
